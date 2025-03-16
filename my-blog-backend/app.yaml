@@ -1,0 +1,6 @@
+runtime: nodejs22
+env: standard
+
+env_variables:
+  MONGO_USERNAME: node-server
+  MONGO_PASSWORD: WKxU6RWwWjtS6Kov
